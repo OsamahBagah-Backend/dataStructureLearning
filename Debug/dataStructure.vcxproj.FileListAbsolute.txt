@@ -1,0 +1,2 @@
+C:\Users\G.B\source\repos\dataStructure\Debug\dataStructure.exe
+C:\Users\G.B\source\repos\dataStructure\Debug\dataStructure.pdb

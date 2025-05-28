@@ -1,0 +1,24 @@
+﻿  dataStructure.cpp
+C:\Users\G.B\source\repos\dataStructure\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(91,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(118,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(144,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(158,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(177,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(202,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(224,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(245,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(266,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(303,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(357,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\dataStructure\clsString.h(501,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsQueueLine.h(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsQueueLine.h(106,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsQueueLine.h(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\G.B\source\repos\dataStructure\clsQueueLine.h(136,24): warning C4018: '<': signed/unsigned mismatch
+  dataStructure.vcxproj -> C:\Users\G.B\source\repos\dataStructure\Debug\dataStructure.exe
